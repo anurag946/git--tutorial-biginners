@@ -1,5 +1,6 @@
 db.sql
 passwords.txt
 *.log
+about.html
 node_modules/
 !important.log
